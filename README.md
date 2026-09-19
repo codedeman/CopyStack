@@ -1,6 +1,13 @@
-# CopyStack
+<p align="center">
+  <img src="docs/app-icon.png" width="128" alt="CopyStack" />
+</p>
 
-Menu bar clipboard stack for macOS. Copy several times, then pick **Copy 1 / Copy 2 / Copy 3…** with **⌘⇧V**.
+<h1 align="center">CopyStack</h1>
+
+<p align="center">
+  Menu bar clipboard stack for macOS.<br />
+  Copy several times, then pick <strong>Copy 1 / Copy 2 / Copy 3…</strong> with <strong>⌘⇧V</strong>.
+</p>
 
 Requires macOS 13+. **Not notarized** — Apple will show a malware warning. That warning cannot be removed without a paid Apple Developer account.
 
@@ -35,5 +42,6 @@ See `INSTRUCTIONS.txt` inside the zip for the same steps.
   <img
     src="docs/ScreenRecording2026-09-19at3.40.17PM-ezgif.com-video-to-gif-converter.gif"
     width="500"
+    alt="CopyStack overlay"
   />
 </p>
